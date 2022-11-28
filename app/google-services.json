@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "569576511283",
+    "project_id": "ucc-quiz",
+    "storage_bucket": "ucc-quiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569576511283:android:5243db4e1d65d6ea4d5046",
+        "android_client_info": {
+          "package_name": "com.example.uccquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569576511283-52iq1140g379tj14n6fg914hdnc76hgo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uccquiz",
+            "certificate_hash": "91b11832d6376bad5e4f3fbcf155515ae896eb56"
+          }
+        },
+        {
+          "client_id": "569576511283-ra4e8rh9dt7pfg0u51lk2k1fa8gdc010.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhYAE0r0EwZJFpRBzJDFnj7AuSRsagNcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569576511283-ra4e8rh9dt7pfg0u51lk2k1fa8gdc010.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
